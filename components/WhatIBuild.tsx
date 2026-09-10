@@ -1,3 +1,5 @@
+'use client';
+
 import { motion } from 'framer-motion';
 import { buildModules } from '@/data/portfolio';
 import { GlowCard } from '@/components/ui/GlowCard';
